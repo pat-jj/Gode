@@ -1,13 +1,19 @@
-Dear reviewer, thanks a lot for your patience reviewing our paper!
+**Gode**
+=====
+Source code and data for our paper "Bi-level Contrastive Learning for Knowledge-Enhanced Molecule Representations"
 
-We use this README file as a guidance for you to explore our code and data.
 
+**Unzip**:
+```bash
+unzip gode_code.zip
+unzip gode_data.zip
+```
 
 
 Code
-====
+===
 
-Our code is in the "gode_code" folder beside this README file.
+Our code is in the "gode_code" folder.
 
 Here's an overview of the code of corresponding functions:
 
