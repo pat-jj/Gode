@@ -72,4 +72,4 @@ Processing Scripts
 gode_data/dataset_construction/
 ```
 
-Once again, thanks a lot for your patience!
+Thank you for your interests!
