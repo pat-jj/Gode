@@ -61,14 +61,12 @@ After unzipping it, the folder contains
 
 The Entire MolKG Dataset  
 ---
----
 ```bash
 gode_data/data_process/KG_processed.csv
 ```
 
 
 Processing Scripts 
----
 ---
 ```bash
 gode_data/dataset_construction/
