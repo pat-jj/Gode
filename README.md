@@ -1,6 +1,8 @@
 **Gode**
 =====
-Source code and data for our paper "Enhancing Molecule Representations with Molecule-Centric Knowledge Graphs" (previous title: "Bi-level Contrastive Learning for Knowledge-Enhanced Molecule Representations")
+Source code and data for our paper "Enhancing Molecule Representations with Molecule-Centric Knowledge Graphs".
+
+*(Old Title: "Bi-level Contrastive Learning for Knowledge-Enhanced Molecule Representations")*
 
 
 **Data Preparation**:
