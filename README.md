@@ -3,9 +3,8 @@
 Source code and data for our paper "Bi-level Contrastive Learning for Knowledge-Enhanced Molecule Representations"
 
 
-**Unzip**:
+**Data Preparation**:
 ```bash
-unzip gode_code.zip
 unzip gode_data.zip
 ```
 
